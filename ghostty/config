@@ -1,0 +1,15 @@
+font-family = IBM Plex Mono Medium
+font-size = 15
+
+#theme = Catppuccin-mocha
+#theme = Abernathy
+
+cursor-style = bar
+cursor-color = #00FFFF
+cursor-style-blink = false
+shell-integration-features = "no-cursor"
+adjust-cursor-thickness = 2
+
+shell-integration = zsh
+#copy-on-select = clipboard
+
