@@ -1,10 +1,8 @@
 
 # My Setup
-
-## Terminal
 - Terminal: Ghostty
 - Shell: ZSH
-- File Manager: Yazi (plain)
+- File Manager: Yazi
 - Text Editor: Neovim + NVChad + :TSInstall cpp
 
 ## ZSH Configuration
