@@ -1,7 +1,7 @@
 
 # My Setup
 - Terminal: Ghostty
-- Shell: ZSH
+- Shell: Fish
 - File Manager: Yazi
 - Text Editor: Neovim + NVChad + :TSInstall cpp
 
